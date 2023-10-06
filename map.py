@@ -1,4 +1,3 @@
-import seaborn as sns
 import folium
 from streamlit_folium import st_folium, folium_static
 import osmnx as ox
