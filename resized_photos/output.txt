@@ -1,0 +1,278 @@
+======== ./IMG_7960.jpg
+GPS Latitude                    : 42.3645638888889
+GPS Longitude                   : -71.0538777777778
+Date/Time Original              : 2022:08:04 20:02:44
+======== ./IMG_7746.jpg
+GPS Latitude                    : 42.3613166666667
+GPS Longitude                   : -71.0556027777778
+Date/Time Original              : 2022:07:16 14:51:32
+======== ./IMG_7961.jpg
+GPS Latitude                    : 42.3645638888889
+GPS Longitude                   : -71.0538777777778
+Date/Time Original              : 2022:08:04 20:02:46
+======== ./IMG_4098.jpg
+GPS Latitude                    : 42.3629027777778
+GPS Longitude                   : -71.0553805555556
+Date/Time Original              : 2021:10:22 18:24:34
+======== ./IMG_8649.jpg
+GPS Latitude                    : 42.3593361111111
+GPS Longitude                   : -71.0495694444444
+Date/Time Original              : 2022:10:15 16:57:07
+======== ./IMG_8661.jpg
+GPS Latitude                    : 42.3593416666667
+GPS Longitude                   : -71.0492555555556
+Date/Time Original              : 2022:10:15 17:12:32
+======== ./IMG_8067.jpg
+GPS Latitude                    : 42.3641166666667
+GPS Longitude                   : -71.0541166666667
+Date/Time Original              : 2022:08:12 21:20:17
+======== ./IMG_8314.jpg
+GPS Latitude                    : 42.3621555555556
+GPS Longitude                   : -71.0553194444445
+Date/Time Original              : 2022:08:28 19:29:27
+======== ./IMG_8670.jpg
+GPS Latitude                    : 42.3592638888889
+GPS Longitude                   : -71.0496444444444
+Date/Time Original              : 2022:10:15 17:33:00
+======== ./IMG_5552.jpg
+GPS Latitude                    : 42.3644833333333
+GPS Longitude                   : -71.0536944444444
+Date/Time Original              : 2022:01:29 12:52:38
+======== ./IMG_8315.jpg
+GPS Latitude                    : 42.3627888888889
+GPS Longitude                   : -71.054925
+Date/Time Original              : 2022:08:28 19:31:47
+======== ./IMG_5551.jpg
+GPS Latitude                    : 42.3645055555556
+GPS Longitude                   : -71.0536638888889
+Date/Time Original              : 2022:01:29 12:52:33
+======== ./IMG_5550.jpg
+GPS Latitude                    : 42.364525
+GPS Longitude                   : -71.0536805555556
+Date/Time Original              : 2022:01:29 12:52:28
+======== ./IMG_8666.jpg
+GPS Latitude                    : 42.3588222222222
+GPS Longitude                   : -71.0494527777778
+Date/Time Original              : 2022:10:15 17:17:54
+======== ./IMG_4991.jpg
+GPS Latitude                    : 42.3630916666667
+GPS Longitude                   : -71.0493166666667
+Date/Time Original              : 2022:01:01 00:08:15
+======== ./IMG_3998.jpg
+GPS Latitude                    : 42.3635111111111
+GPS Longitude                   : -71.0561138888889
+Date/Time Original              : 2021:10:15 12:30:52
+======== ./IMG_4601.jpg
+GPS Latitude                    : 42.3681361111111
+GPS Longitude                   : -71.0568694444444
+Date/Time Original              : 2021:11:27 18:22:20
+======== ./IMG_6994.jpg
+GPS Latitude                    : 42.3665583333333
+GPS Longitude                   : -71.0509638888889
+Date/Time Original              : 2022:05:24 14:14:35
+======== ./IMG_8239.jpg
+GPS Latitude                    : 42.3612666666667
+GPS Longitude                   : -71.0532916666667
+Date/Time Original              : 2022:08:22 16:57:14
+======== ./IMG_4990.jpg
+GPS Latitude                    : 42.3631444444444
+GPS Longitude                   : -71.0493472222222
+Date/Time Original              : 2022:01:01 00:08:07
+======== ./IMG_4986.jpg
+GPS Latitude                    : 42.3634194444444
+GPS Longitude                   : -71.0495083333333
+Date/Time Original              : 2022:01:01 00:07:17
+======== ./IMG_4992.jpg
+GPS Latitude                    : 42.3630777777778
+GPS Longitude                   : -71.0492944444444
+Date/Time Original              : 2022:01:01 00:08:25
+======== ./IMG_6997.jpg
+GPS Latitude                    : 42.3665861111111
+GPS Longitude                   : -71.0511083333333
+Date/Time Original              : 2022:05:24 15:42:32
+======== ./IMG_6996.jpg
+GPS Latitude                    : 42.3665861111111
+GPS Longitude                   : -71.0511083333333
+Date/Time Original              : 2022:05:24 15:42:32
+======== ./IMG_4993.jpg
+GPS Latitude                    : 42.3630916666667
+GPS Longitude                   : -71.0492555555556
+Date/Time Original              : 2022:01:01 00:08:30
+======== ./IMG_4987.jpg
+GPS Latitude                    : 42.3634194444444
+GPS Longitude                   : -71.0495083333333
+Date/Time Original              : 2022:01:01 00:07:20
+======== ./IMG_4983.jpg
+GPS Latitude                    : 42.3633888888889
+GPS Longitude                   : -71.049575
+Date/Time Original              : 2022:01:01 00:07:07
+======== ./IMG_4997.jpg
+GPS Latitude                    : 42.3630944444444
+GPS Longitude                   : -71.0494833333333
+Date/Time Original              : 2022:01:01 00:12:35
+======== ./IMG_6992.jpg
+GPS Latitude                    : 42.3665472222222
+GPS Longitude                   : -71.0511166666667
+Date/Time Original              : 2022:05:24 13:26:30
+======== ./IMG_7131.jpg
+GPS Latitude                    : 42.3586222222222
+GPS Longitude                   : -71.0503694444444
+Date/Time Original              : 2022:05:28 19:33:09
+======== ./IMG_6993.jpg
+GPS Latitude                    : 42.3666083333333
+GPS Longitude                   : -71.0510472222222
+Date/Time Original              : 2022:05:24 13:30:09
+======== ./IMG_4996.jpg
+GPS Latitude                    : 42.3631444444444
+GPS Longitude                   : -71.0493861111111
+Date/Time Original              : 2022:01:01 00:09:41
+======== ./IMG_7906.jpg
+GPS Latitude                    : 42.3645333333333
+GPS Longitude                   : -71.0534277777778
+Date/Time Original              : 2022:07:31 13:32:24
+======== ./IMG_4994.jpg
+GPS Latitude                    : 42.3630833333333
+GPS Longitude                   : -71.0494222222222
+Date/Time Original              : 2022:01:01 00:09:37
+======== ./IMG_4980.jpg
+GPS Latitude                    : 42.3644916666667
+GPS Longitude                   : -71.0526361111111
+Date/Time Original              : 2022:01:01 00:04:03
+======== ./IMG_6991.jpg
+GPS Latitude                    : 42.3665472222222
+GPS Longitude                   : -71.0511166666667
+Date/Time Original              : 2022:05:24 13:26:27
+======== ./IMG_6990.jpg
+GPS Latitude                    : 42.3672
+GPS Longitude                   : -71.0502083333333
+Date/Time Original              : 2022:05:24 13:23:51
+======== ./IMG_4995.jpg
+GPS Latitude                    : 42.3631138888889
+GPS Longitude                   : -71.0493861111111
+Date/Time Original              : 2022:01:01 00:09:37
+======== ./IMG_4998.jpg
+GPS Latitude                    : 42.363125
+GPS Longitude                   : -71.0493305555556
+Date/Time Original              : 2022:01:01 00:12:38
+======== ./IMG_6989.jpg
+GPS Latitude                    : 42.3677861111111
+GPS Longitude                   : -71.0499027777778
+Date/Time Original              : 2022:05:24 13:22:39
+======== ./IMG_7842.jpg
+GPS Latitude                    : 42.3629388888889
+GPS Longitude                   : -71.057
+Date/Time Original              : 2022:07:25 20:26:06
+======== ./IMG_8218.jpg
+GPS Latitude                    : 42.3625194444444
+GPS Longitude                   : -71.0566333333333
+Date/Time Original              : 2022:08:20 17:57:01
+======== ./IMG_7466.jpg
+GPS Latitude                    : 42.36225
+GPS Longitude                   : -71.0566166666667
+Date/Time Original              : 2022:06:19 14:01:09
+======== ./IMG_6988.jpg
+GPS Latitude                    : 42.3676638888889
+GPS Longitude                   : -71.04985
+Date/Time Original              : 2022:05:24 13:22:09
+======== ./IMG_7506.jpg
+GPS Latitude                    : 42.3632611111111
+GPS Longitude                   : -71.0550388888889
+Date/Time Original              : 2022:06:23 20:46:30
+======== ./IMG_4999.jpg
+GPS Latitude                    : 42.3631333333333
+GPS Longitude                   : -71.0493083333333
+Date/Time Original              : 2022:01:01 00:12:39
+======== ./IMG_6790.jpg
+GPS Latitude                    : 42.3645222222222
+GPS Longitude                   : -71.05375
+Date/Time Original              : 2022:05:15 20:38:12
+======== ./IMG_4597.jpg
+GPS Latitude                    : 42.3651694444444
+GPS Longitude                   : -71.0554361111111
+Date/Time Original              : 2021:11:26 14:21:37
+======== ./IMG_3997.jpg
+GPS Latitude                    : 42.3635166666667
+GPS Longitude                   : -71.0561055555556
+Date/Time Original              : 2021:10:15 12:30:48
+======== ./IMG_4989.jpg
+GPS Latitude                    : 42.363425
+GPS Longitude                   : -71.0495083333333
+Date/Time Original              : 2022:01:01 00:07:24
+======== ./IMG_6998.jpg
+GPS Latitude                    : 42.3665472222222
+GPS Longitude                   : -71.051125
+Date/Time Original              : 2022:05:24 15:42:35
+======== ./IMG_6999.jpg
+GPS Latitude                    : 42.3665777777778
+GPS Longitude                   : -71.0508638888889
+Date/Time Original              : 2022:05:24 15:47:30
+======== ./IMG_4988.jpg
+GPS Latitude                    : 42.363425
+GPS Longitude                   : -71.0495083333333
+Date/Time Original              : 2022:01:01 00:07:21
+======== ./IMG_5549.jpg
+GPS Latitude                    : 42.3645888888889
+GPS Longitude                   : -71.0536638888889
+Date/Time Original              : 2022:01:29 12:52:15
+======== ./IMG_4093.jpg
+GPS Latitude                    : 42.3638305555556
+GPS Longitude                   : -71.0545194444444
+Date/Time Original              : 2021:10:22 12:46:05
+======== ./IMG_8668.jpg
+GPS Latitude                    : 42.3591388888889
+GPS Longitude                   : -71.0490194444444
+Date/Time Original              : 2022:10:15 17:20:10
+======== ./IMG_8655.jpg
+GPS Latitude                    : 42.3589861111111
+GPS Longitude                   : -71.0492083333333
+Date/Time Original              : 2022:10:15 17:03:44
+======== ./IMG_7980.jpg
+GPS Latitude                    : 42.3640444444444
+GPS Longitude                   : -71.0493916666667
+Date/Time Original              : 2022:08:05 20:56:37
+======== ./IMG_4094.jpg
+GPS Latitude                    : 42.36385
+GPS Longitude                   : -71.05445
+Date/Time Original              : 2021:10:22 12:46:14
+======== ./IMG_7833.jpg
+GPS Latitude                    : 42.3642416666667
+GPS Longitude                   : -71.0540083333333
+Date/Time Original              : 2022:07:24 21:05:28
+======== ./IMG_5003.jpg
+GPS Latitude                    : 42.3631361111111
+GPS Longitude                   : -71.0492638888889
+Date/Time Original              : 2022:01:01 00:12:49
+======== ./IMG_7628.jpg
+GPS Latitude                    : 42.3633722222222
+GPS Longitude                   : -71.0549916666667
+Date/Time Original              : 2022:07:03 17:16:49
+======== ./IMG_5002.jpg
+GPS Latitude                    : 42.3631361111111
+GPS Longitude                   : -71.0492638888889
+Date/Time Original              : 2022:01:01 00:12:47
+======== ./IMG_7832.jpg
+GPS Latitude                    : 42.3642416666667
+GPS Longitude                   : -71.0540472222222
+Date/Time Original              : 2022:07:24 21:05:24
+======== ./IMG_4095.jpg
+GPS Latitude                    : 42.3637972222222
+GPS Longitude                   : -71.0545055555556
+Date/Time Original              : 2021:10:22 12:46:32
+======== ./IMG_5001.jpg
+GPS Latitude                    : 42.3631388888889
+GPS Longitude                   : -71.0492638888889
+Date/Time Original              : 2022:01:01 00:12:42
+======== ./IMG_8647.jpg
+GPS Latitude                    : 42.3594194444444
+GPS Longitude                   : -71.0493861111111
+Date/Time Original              : 2022:10:15 16:56:58
+======== ./IMG_6440.jpg
+GPS Latitude                    : 42.3632138888889
+GPS Longitude                   : -71.0550916666667
+Date/Time Original              : 2022:04:12 09:42:39
+======== ./IMG_7979.jpg
+GPS Latitude                    : 42.3639916666667
+GPS Longitude                   : -71.0494694444444
+Date/Time Original              : 2022:08:05 20:53:14
+    1 directories scanned
+   69 image files read

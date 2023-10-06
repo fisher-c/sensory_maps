@@ -1,0 +1,23 @@
+======== ./IMG_0283.MOV
+GPS Latitude                    : 42.3638
+GPS Longitude                   : -71.0498
+======== ./IMG_0291.MOV
+GPS Latitude                    : 42.3638
+GPS Longitude                   : -71.0497
+======== ./IMG_0275.MOV
+GPS Latitude                    : 42.3637
+GPS Longitude                   : -71.0497
+======== ./IMG_0274.MOV
+GPS Latitude                    : 42.3637
+GPS Longitude                   : -71.0497
+======== ./IMG_0276.MOV
+GPS Latitude                    : 42.3637
+GPS Longitude                   : -71.0497
+======== ./IMG_0273.MOV
+GPS Latitude                    : 42.3637
+GPS Longitude                   : -71.0497
+======== ./IMG_7907.MOV
+GPS Latitude                    : 42.3646
+GPS Longitude                   : -71.0538
+    1 directories scanned
+    7 image files read
