@@ -1,5 +1,5 @@
-# North End Map photo viz
+# Sensory Maps
 
-### Overview
+North End, Boston
 
 Explore the app here: https://sensory.streamlit.app/
