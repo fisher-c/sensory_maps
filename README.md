@@ -2,6 +2,4 @@
 
 ### Overview
 
-Explore the app here: https://fisher-c-graffiti--topic-modeling-yrc7z0.streamlit.app/
-
-
+Explore the app here: https://sensory.streamlit.app/
