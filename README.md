@@ -1,7 +1,11 @@
-# North End Map photo viz
+# Sensory Map
 
-### Overview
+North End, Boston
 
-Explore the app here: https://fisher-c-graffiti--topic-modeling-yrc7z0.streamlit.app/
+This application serves as a digital journal of my explorations within the area.
 
+Explore the app here: https://sensory.streamlit.app/
 
+* Orange Markers: Photos I've taken. Click to view.
+* Blue Markers: Videos captured (currently facing playback issues).
+* Markers are placed using exact longitude and latitude from media metadata.
